@@ -1,5 +1,5 @@
 <!-- 🔷 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&width=full&section=header&text=Faizan%20Sorathiya&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faizan%20Sorathiya&fontSize=40&fontColor=ffffff" />
 
 <h2 align="center">MERN Stack Developer</h2>
 <p align="center">Building Scalable Web Applications | Problem Solver</p>
@@ -43,15 +43,6 @@
 
 ### 🌦️ Weather App
 - Real-time API data integration
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizyy43&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizyy43&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
