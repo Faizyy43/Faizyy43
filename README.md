@@ -8,14 +8,16 @@
 
 ## About
 
-MERN stack developer focused on building practical, real-world applications.  
+MERN stack developer focused on real-world applications.  
 Currently working on a **Hospital Management System** and improving backend scalability.
 
 ---
 
-## Skills
+## Tech Stack
 
-React • Node.js • Express • MongoDB • JavaScript • TypeScript • Tailwind
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind" />
+</p>
 
 ---
 
@@ -28,15 +30,25 @@ Role-based dashboards, appointments, JWT authentication
 Multi-module system with full CRUD functionality  
 
 **Weather App**  
-Real-time API integration with responsive UI  
+Real-time API integration  
 
 ---
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/faizyy43  
-Portfolio: https://faizyy.vercel.com  
-Email: faizansorthiya0@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/faizyy43">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://faizyy.vercel.com">
+    <img src="https://skillicons.dev/icons?i=vercel" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:faizansorthiya0@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+</p>
 
 ---
 
