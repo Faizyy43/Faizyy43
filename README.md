@@ -38,14 +38,6 @@ const faizan = {
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faizyy43&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6DD5FA&icon_color=6DD5FA&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizyy43&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6DD5FA&text_color=ffffff" />
-</div>
-
----
 
 ### Connect
 
