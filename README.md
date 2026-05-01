@@ -2,51 +2,46 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faizan%20Sorathiya&fontSize=40&fontColor=ffffff" width="100%" />
 
 <h2 align="center">MERN Stack Developer</h2>
-<p align="center">Building Scalable Web Applications | Problem Solver</p>
-
-<!-- 🔷 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;Clean+Code+Enthusiast;Building+Real+World+Projects" />
-</p>
+<p align="center">Building scalable web applications with a focus on clean architecture and performance</p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-<img align="right" alt="coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-- 🔭 Working on **Hospital Management System**
-- 🌱 Learning **System Design & Scalable Backend**
-- 💡 Skilled in **React, Node.js, MongoDB**
-- ⚡ Focused on **real-world problem solving**
+- Currently developing a **Hospital Management System**
+- Learning **System Design and Scalable Backend Architecture**
+- Strong foundation in **React, Node.js, Express, MongoDB**
+- Focused on solving **real-world problems through code**
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind,git,github,vscode,postman" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🏥 Hospital Management System
-- Role-based dashboards (Admin, Doctor, Patient)
-- Appointment & record management
-- JWT Authentication
-
-### 🎓 College Management System
-- 5 modules with role-based system
-- Full CRUD operations
-
-### 🌦️ Weather App
-- Real-time API data integration
+- Frontend: React.js, JavaScript, TypeScript, HTML, CSS, Tailwind
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code, Postman
 
 ---
 
-## 🔥 Contribution Streak
+## Projects
+
+### Hospital Management System
+- Role-based dashboards for Admin, Doctor, and Patient
+- Appointment scheduling and medical record management
+- Secure authentication using JWT
+
+### College Management System
+- Multi-module system with role-based access
+- Full CRUD functionality across all modules
+
+### Weather Application
+- Real-time weather data using external APIs
+- Clean and responsive user interface
+
+---
+
+## Contribution Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Faizyy43&theme=tokyonight&hide_border=true"/>
@@ -54,23 +49,15 @@
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
-<p align="center">
-  <a href="https://linkedin.com/in/faizyy43">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://faizyy.vercel.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:faizansorthiya0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- LinkedIn: https://linkedin.com/in/faizyy43  
+- Portfolio: https://faizyy.vercel.com  
+- Email: faizansorthiya0@gmail.com  
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faizyy43&label=Profile%20Views&color=0e75b6&style=flat" />
