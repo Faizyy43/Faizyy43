@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Faizan%20Sorathiya&fontSize=38&fontColor=ffffff" width="100%" />
 
+<h2 align="center">MERN Developer | Full Stack Developer</h2>
+
 
 ```javascript
 const faizan = {
