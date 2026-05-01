@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Faizan%20Sorathiya&fontSize=38&fontColor=ffffff&desc=MERN%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=65" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Faizan%20Sorathiya&fontSize=38&fontColor=ffffff&desc=MERN%20Developer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=72" 
   width="100%" 
 />
 
@@ -48,4 +48,4 @@ const faizan = {
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0d1117&height=100&width=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=footer" width="100%" />
