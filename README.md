@@ -1,5 +1,5 @@
 <!-- 🔷 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faizan%20Sorathiya&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&width=full&section=header&text=Faizan%20Sorathiya&fontSize=40&fontColor=ffffff" />
 
 <h2 align="center">MERN Stack Developer</h2>
 <p align="center">Building Scalable Web Applications | Problem Solver</p>
