@@ -1,8 +1,5 @@
-<div align="center" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Faizan%20Sorathiya&fontSize=38&fontColor=ffffff" width="100%" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a3a,100:2c5364&height=200&section=header&text=Faizan%20Sorathiya&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=MERN%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=15&descColor=6DD5FA&animation=fadeIn)
-
-</div>
 
 ```javascript
 const faizan = {
