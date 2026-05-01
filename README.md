@@ -41,7 +41,7 @@ Real-time weather data · Location-based lookups · Live API integration
     <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
   </a>
   &nbsp;
-  <a href="https://faizyy.vercel.com">
+  <a href="https://faizyy.vercel.app/">
     <img src="https://skillicons.dev/icons?i=vercel" height="28" />
   </a>
   &nbsp;
