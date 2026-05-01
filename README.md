@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Faizan%20Sorathiya&fontSize=38&fontColor=ffffff" width="100%" />
-
-<h2 align="center">MERN Developer | Full Stack Developer</h2>
-
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Faizan%20Sorathiya&fontSize=38&fontColor=ffffff&desc=MERN%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=65" 
+  width="100%" 
+/>
 
 ```javascript
 const faizan = {
