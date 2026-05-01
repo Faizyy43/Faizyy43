@@ -1,68 +1,102 @@
-<h1 align="center">Hi, I'm Faizan Sorathiya</h1>
-<h3 align="center"> MERN Stack Developer | Building Scalable Web Apps</h3>
+<!-- 🔷 Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Faizan%20Sorathiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<h1 align="center"> MERN Stack Developer</h1>
+<h3 align="center">Building Scalable Web Applications | Problem Solver</h3>
+
+<!-- 🔷 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;Clean+Code+Enthusiast;API+%26+System+Design+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+## 🧠 About Me
 
-### 👨‍💻 About Me
-- Currently working on **Hospital Management System**
-- Learning **Advanced Backend & System Design**
-- Strong in **MERN Stack Development**
-- Love building **real-world scalable apps**
-- Reach me: **faizansorthiya0@gmail.com**
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+- Working on **Hospital Management System (Enterprise Level)**
+- Learning **System Design & Scalable Backend**
+- Strong in **React, Node.js, MongoDB**
+- Focused on **real-world problem solving**
+- Goal: Become **Top Full Stack Developer**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack (Elite)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,nextjs,redux,html,css,tailwind,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects (Production Level)
 
-- 🏥 **Hospital Management System**  
-- 🌦️ **Weather App (API Based)**  
-- 🎓 **College Management System (5 Modules)**  
-- 🧾 **Notary Booking Platform**
+### 🏥 Hospital Management System
+- Role-based dashboards (Admin, Doctor, Patient)
+- Appointment & record management
+- Secure authentication (JWT)
+- Scalable backend architecture
+
+### 🎓 College Management System
+- 5 Modules: Admin, Student, College, Agent, Establishment
+- Full CRUD + Role-based access
+
+### 🌦️ Weather App
+- Third-party API integration
+- Real-time weather data
 
 ---
 
-### 🔥 GitHub Streak
+## 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Faizyy43&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizyy43&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizyy43&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizyy43&theme=onedark&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=Faizyy43&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 Achievements
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faizyy43/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"></a> -->
-  <!-- <a href="faizansorthiya0@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizyy43&theme=algolia&no-frame=true&row=1"/>
 </p>
 
 ---
 
-### 👀 Profile Views
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faizyy43&color=blue" />
+  <a href="https://linkedin.com/in/faizyy43">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://faizyy.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:faizansorthiya0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizyy43&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<!-- 🔻 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
