@@ -1,15 +1,18 @@
 <!-- 🔷 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faizan%20Sorathiya&fontSize=40&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Faizan%20Sorathiya&fontSize=38&fontColor=ffffff" width="100%" />
 
-<h2 align="center">MERN Stack Developer</h2>
-<p align="center">Building scalable and clean web applications</p>
+<h2 align="center">MERN Developer | Full Stack Developer</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6DD5FA&center=true&vCenter=true&lines=Building+Scalable+Applications;Clean+Code+Focused;Backend+and+Frontend+Expertise&duration=3000&pause=1000" />
+</p>
 
 ---
 
 ## About
 
-MERN stack developer focused on real-world applications.  
-Currently working on a **Hospital Management System** and improving backend scalability.
+Full Stack Developer specializing in the MERN stack.  
+Currently building a **Hospital Management System** with focus on scalability and clean architecture.
 
 ---
 
@@ -24,10 +27,10 @@ Currently working on a **Hospital Management System** and improving backend scal
 ## Projects
 
 **Hospital Management System**  
-Role-based dashboards, appointments, JWT authentication  
+Role-based dashboards • Appointments • Secure authentication  
 
 **College Management System**  
-Multi-module system with full CRUD functionality  
+Multi-module system • Full CRUD  
 
 **Weather App**  
 Real-time API integration  
@@ -38,19 +41,19 @@ Real-time API integration
 
 <p align="center">
   <a href="https://linkedin.com/in/faizyy43">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://faizyy.vercel.com">
-    <img src="https://skillicons.dev/icons?i=vercel" height="30"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:faizansorthiya0@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
   </a>
 </p>
 
 ---
 
 <!-- 🔻 Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%" />
