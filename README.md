@@ -10,11 +10,11 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Hospital Management System**
-- 🌱 Learning **Advanced Backend & System Design**
-- 💡 Strong in **MERN Stack Development**
-- ⚡ Love building **real-world scalable apps**
-- 📫 Reach me: **faizansorthiya0@gmail.com**
+- Currently working on **Hospital Management System**
+- Learning **Advanced Backend & System Design**
+- Strong in **MERN Stack Development**
+- Love building **real-world scalable apps**
+- Reach me: **faizansorthiya0@gmail.com**
 
 ---
 
@@ -32,15 +32,6 @@
 - 🌦️ **Weather App (API Based)**  
 - 🎓 **College Management System (5 Modules)**  
 - 🧾 **Notary Booking Platform**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizyy43&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizyy43&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -65,7 +56,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/faizyy43/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"></a> -->
-  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="faizansorthiya0@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
